@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SheriefAbdullah
+- 👀 I’m interested in Data Science.
+- 🌱 I’m currently learning Machine learning.
+- 📫 Eeach me by email (sherief.abdullah83@gmail.com).
